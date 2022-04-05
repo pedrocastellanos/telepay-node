@@ -1,0 +1,30 @@
+{
+  "name": "telepay-node",
+  "description": "NodeJS SDK for the TelePay API",
+  "version": "0.0.1",
+  "main": "lib/telepay.js",
+  "scripts": {
+    "test": "jest --env=node"
+  },
+  "keywords": [
+    "telepay",
+    "crypto",
+    "cuba"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrocastellanos/telepay-node.git"
+  },
+  "license": "MIT",
+  "author": "Pedro Castellanos Alonso",
+  "bugs": {
+    "url": "https://github.com/pedrocastellanos/telepay-node/issues"
+  },
+  "homepage": "https://github.com/pedrocastellanos/telepay-node#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
