@@ -4,10 +4,16 @@ TelePay client library for NodeJS, so you can easely process cryptocurrency paym
 
 ## Installation
 
-Install the package with npm:
+Install the package with **npm**:
 
 ```bash
 npm install telepay-node
+```
+
+Install the package with **yarn**:
+
+```bash
+yarn add telepay-node
 ```
 
 ## Using the library
