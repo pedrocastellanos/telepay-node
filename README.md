@@ -54,7 +54,7 @@ telepay.getBalance()
 
 **getAssets**
 
-Get assets suported by TelePay. [Read docs](https://telepay.readme.io/reference/getassets).
+Get assets supported by TelePay. [Read docs](https://telepay.readme.io/reference/getassets).
 
 ```javascript
 telepay.getAssets()
